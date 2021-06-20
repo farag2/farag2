@@ -3,12 +3,12 @@
 [![Yandex](https://img.shields.io/badge/-nefedovds@ya.ru-F9DB60?style=flat-square&logo=Yandex&logoColor=FF3333)](mailto:nefedovds@ya.ru)
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/sanctuary_d)
 
-Hi, I'm Dmitry from Moscow. Passionate about Microsoft services, Windows & PowerShell. Learning technologies that I found interesting.
+Hi, I am Dmitry from Moscow. Passionate about Microsoft services, Windows & PowerShell. Learning technologies that I found interesting.
 
 * Open-source enthusiast and maintainer; :desktop_computer:
 * Love to help people; :electric_plug:
 * I do like automation; 🤖
-* I'm currently working on [Sophia Script](https://github.com/farag2/Windows-10-Sophia-Script), the largest PowerShell module for fine-tuning `Windows 10` on GitHub, and its' GUI version, [SophiApp](https://github.com/Sophia-Community/SophiApp). :keyboard: 
+* I work on [Sophia Script](https://github.com/farag2/Windows-10-Sophia-Script), the largest PowerShell module for fine-tuning `Windows 10` on GitHub, and its' GUI version, [SophiApp](https://github.com/Sophia-Community/SophiApp). :keyboard: 
 
 [![Card](https://github-readme-stats.vercel.app/api/pin?username=farag2&repo=Windows-10-Sophia-Script&show_owner=true&locale=en&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F)](https://github.com/farag2/Windows-10-Sophia-Script)
 
