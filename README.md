@@ -11,6 +11,7 @@ Hi, I am Dmitry from Moscow. Passionate about Microsoft services, Windows & Powe
 * I work on [Sophia Script](https://github.com/farag2/Sophia-Script-for-Windows), the largest PowerShell module for fine-tuning `Windows 10` & `Windows 11` on GitHub, and its' GUI version, [SophiApp](https://github.com/Sophia-Community/SophiApp) :keyboard: 
 
 [![Card](https://github-readme-stats.vercel.app/api/pin?username=farag2&repo=Sophia-Script-for-Windows&show_owner=true&locale=en&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F)](https://github.com/farag2/Sophia-Script-for-Windows)
+[![Card](https://github-readme-stats.vercel.app/api/pin?username=Sophia-Community&repo=SophiApp&show_owner=true&locale=en&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F)](https://github.com/Sophia-Community/SophiApp)
 
 ![Windows](https://img.shields.io/badge/Windows%2011-0078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)
 ![VSCode](https://img.shields.io/badge/visual%20studio%20code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
