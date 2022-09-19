@@ -1,9 +1,10 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=farag2&theme=darkhub&no-bg=true&no-frame=true)
 
-[![Yandex](https://img.shields.io/badge/-nefedovds@ya.ru-F9DB60?style=flat-square&logo=Yandex&logoColor=FF3333)](mailto:nefedovds@ya.ru)
-[![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/sanctuary_d)
+![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
 Hi, I am Dmitry from Moscow. Passionate about Microsoft services, Windows & PowerShell. Learning technologies that I found interesting.
+
+[![Yandex](https://img.shields.io/badge/-nefedovds@ya.ru-F9DB60?style=flat-square&logo=Yandex&logoColor=FF3333)](mailto:nefedovds@ya.ru) [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/sanctuary_d)
 
 * Open-source enthusiast and maintainer :desktop_computer:
 * Love to help people :electric_plug:
@@ -19,6 +20,6 @@ Hi, I am Dmitry from Moscow. Passionate about Microsoft services, Windows & Powe
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE.svg?&style=for-the-badge&logo=powershell&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139.svg?&style=for-the-badge&logo=firefox&logoColor=white)
 
-***
+![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=farag2&count_private=false&show_icons=true&bg_color=22272E&text_color=9F9F9F"/>
