@@ -19,7 +19,7 @@ Hi, I am Dmitry from Moscow. Passionate about Microsoft services, Windows & Powe
 [![Card](https://github-readme-stats.vercel.app/api/pin?username=farag2&repo=Sophia-Script-for-Windows&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F)](https://github.com/farag2/Sophia-Script-for-Windows)
 [![Card](https://github-readme-stats.vercel.app/api/pin?username=Sophia-Community&repo=SophiApp&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F)](https://github.com/Sophia-Community/SophiApp)
 
-![Windows](https://img.shields.io/badge/Windows%2011-0078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows%2011-0078D6.svg?&style=for-the-badge&logo=windows%2011&logoColor=white)
 ![VSCode](https://img.shields.io/badge/visual%20studio%20code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![WindowsTerminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D.svg?&style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE.svg?&style=for-the-badge&logo=powershell&logoColor=white)
