@@ -27,4 +27,4 @@ Hi, I am Dmitry from Moscow. Passionate about Microsoft services, Windows & Powe
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
-[![Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=farag2&count_private=false&show_icons=true&bg_color=22272E&text_color=9F9F9F)
+![Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=farag2&count_private=false&show_icons=true&bg_color=22272E&text_color=9F9F9F)
