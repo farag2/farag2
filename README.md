@@ -1,4 +1,4 @@
-![trophy](https://github-profile-trophy.vercel.app/?username=farag2&theme=darkhub&no-bg=true&no-frame=true)
+![trophy](https://github-profile-trophy-cyyin.vercel.app/?username=farag2&theme=darkhub&no-bg=true&no-frame=true)
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
