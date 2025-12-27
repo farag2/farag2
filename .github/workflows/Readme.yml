@@ -18,7 +18,7 @@ jobs:
         uses: actions/checkout@main
 
       - name: Create folder
-        run: mkdir --parents profile
+        run: mkdir --parents img
 
       - name: My statistics light
         uses: readme-tools/github-readme-stats-action@main
