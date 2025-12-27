@@ -1,6 +1,9 @@
 ### Hey 👋, I'm Dmitry
 
-Passionate about Microsoft services, Windows & PowerShell. Current working on [Sophia Script for Windows](https://github.com/farag2/Sophia-Script-for-Windows), The most powerful PowerShell module for fine-tuning Windows on GitHub, and [SophiApp 2.0](https://github.com/Sophia-Community/SophiApp).
+Passionate about Microsoft services, Windows & PowerShell. Current working on:
+
+* [Sophia Script for Windows](https://github.com/farag2/Sophia-Script-for-Windows), the most powerful PowerShell module for fine-tuning Windows on GitHub
+* [SophiApp 2.0](https://github.com/Sophia-Community/SophiApp)
 
 Open-source enthusiast and maintainer. I do ❤️ automation.
 
