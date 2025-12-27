@@ -20,52 +20,28 @@ jobs:
       - name: Create folder
         run: mkdir --parents img
 
-      - name: My statistics light
+      - name: My statistics
         uses: readme-tools/github-readme-stats-action@main
         with:
           card: stats
-          options: 'username=${{ github.repository_owner }}&show_owner=true&count_private=false&show_icons=true&bg_color=22272E&text_color=9F9F9F&theme=default'
-          path: img/farag2_light.svg
+          options: 'username=${{ github.repository_owner }}&show_owner=true&count_private=false&show_icons=true&bg_color=22272E&text_color=9F9F9F'
+          path: img/farag2.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: My statistics dark
-        uses: readme-tools/github-readme-stats-action@main
-        with:
-          card: stats
-          options: 'username=${{ github.repository_owner }}&show_owner=true&count_private=false&show_icons=true&bg_color=22272E&text_color=9F9F9F&theme=dark'
-          path: img/farag2_dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Sophia Script repo statistics light
+      - name: SophiApp repo statistics
         uses: readme-tools/github-readme-stats-action@main
         with:
           card: pin
-          options: 'username=farag2&repo=Sophia-Script-for-Windows&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F&theme=default'
-          path: img/sophiascript_light.svg
+          options: 'username=farag2&repo=Sophia-Script-for-Windows&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F'
+          path: img/sophia-script.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Sophia Script repo statistics dark
+      - name: SophiApp repo statistics
         uses: readme-tools/github-readme-stats-action@main
         with:
           card: pin
-          options: 'username=farag2&repo=Sophia-Script-for-Windows&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F&theme=dark'
-          path: img/sophiascript_dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: SophiApp repo statistics light
-        uses: readme-tools/github-readme-stats-action@main
-        with:
-          card: pin
-          options: 'username=Sophia-Community&repo=SophiApp&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F&theme=default'
-          path: img/sophiapp_light.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: SophiApp repo statistics dark
-        uses: readme-tools/github-readme-stats-action@main
-        with:
-          card: pin
-          options: 'username=Sophia-Community&repo=SophiApp&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F&theme=dark'
-          path: img/sophiapp_dark.svg
+          options: 'username=Sophia-Community&repo=SophiApp&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F'
+          path: img/sophiapp.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
