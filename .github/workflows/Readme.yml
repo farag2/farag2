@@ -1,0 +1,53 @@
+name: GitHub Readme Stats
+
+on:
+  workflow_dispatch:
+
+  schedule:
+  # Every day at 10 am
+  - cron: 0 10 * * *
+
+jobs:
+  update-cards:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    name: Update cards
+    steps:
+      - name: Checkout
+        uses: actions/checkout@main
+
+      - name: Create folder
+        run: mkdir --parents profile
+
+      - name: My statistics
+        uses: readme-tools/github-readme-stats-action@main
+        with:
+          card: stats
+          options: 'username=${{ github.repository_owner }}&show_owner=true&count_private=false&show_icons=true&bg_color=22272E&text_color=9F9F9F'
+          path: img/farag2.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: SophiApp repo statistics
+        uses: readme-tools/github-readme-stats-action@main
+        with:
+          card: pin
+          options: 'username=farag2&repo=Sophia-Script-for-Windows&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F'
+          path: img/sophia-script.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: SophiApp repo statistics
+        uses: readme-tools/github-readme-stats-action@main
+        with:
+          card: pin
+          options: 'username=Sophia-Community&repo=SophiApp&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F'
+          path: img/sophiapp.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add img/*.svg
+          git commit -m "Update README cards"
+          git push
