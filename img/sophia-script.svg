@@ -100,7 +100,7 @@
     
 
     <text class="description" x="25" y="-5">
-      <tspan dy="1.2em" x="25">&#9889; The most powerful PowerShell module for fine-tuning</tspan><tspan dy="1.2em" x="25">Windows</tspan>
+      <tspan dy="1.2em" x="25">&#9889; The most powerful open source tweaker for</tspan><tspan dy="1.2em" x="25">fine-tuning Windows 10 &#38; Windows 11</tspan>
     </text>
 
     <g transform="translate(30, 65)">
