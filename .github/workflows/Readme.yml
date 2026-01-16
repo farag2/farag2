@@ -17,9 +17,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@main
 
-      - name: Create folder
-        run: mkdir --parents img
-
       - name: My statistics
         uses: readme-tools/github-readme-stats-action@main
         with:
@@ -28,7 +25,7 @@ jobs:
           path: img/farag2.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: SophiApp repo statistics
+      - name: https://github.com/farag2/Sophia-Script-for-Windows statistics
         uses: readme-tools/github-readme-stats-action@main
         with:
           card: pin
@@ -36,7 +33,7 @@ jobs:
           path: img/sophia-script.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: SophiApp repo statistics
+      - name: https://github.com/Sophia-Community/SophiApp statistics
         uses: readme-tools/github-readme-stats-action@main
         with:
           card: pin
