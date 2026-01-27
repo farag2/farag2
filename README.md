@@ -1,18 +1,18 @@
-### Hey 👋, I'm Dmitry
+I'm Dmitry. Passionate about Microsoft services, Windows & PowerShell. Open-source enthusiast and maintainer. I do ❤️ automation.
 
-Passionate about Microsoft services, Windows & PowerShell. Open-source enthusiast and maintainer. I do ❤️ automation.
+<kbd>
+	<a href="https://t.me/sanctuary_d"><img src="https://img.shields.io/badge/PM-blue?labelColor=151B23&color=151B23&style=for-the-badge&logo=Telegram"></a>
+</kbd>
+<kbd>
+	<a href="https://t.me/sophia_chat"><img src="https://img.shields.io/badge/Sophia%20Chat-blue?labelColor=151B23&color=151B23&style=for-the-badge&logo=Telegram"></a>
+</kbd>
+<kbd>
+	<a href="https://t.me/sophianews"><img src="https://img.shields.io/badge/Sophia%20News-blue?labelColor=151B23&color=151B23&style=for-the-badge&logo=Telegram"></a>
+</kbd>
 
-Current working on:
+![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
-* [Sophia Script for Windows](https://github.com/farag2/Sophia-Script-for-Windows), the most powerful PowerShell module for fine-tuning Windows on GitHub
-* [SophiApp 2.0](https://github.com/Sophia-Community/SophiApp)
-
-[telegram-news-badge]: https://img.shields.io/badge/Sophia%20News-Telegram-blue?style=flat&logo=Telegram
-[telegram-news]: https://t.me/sophianews
-[telegram-group]: https://t.me/sophia_chat
-[telegram-group-badge]: https://img.shields.io/badge/Sophia%20Chat-Telegram-blue?style=flat&logo=Telegram
-  
-[![Telegram][telegram-news-badge]][telegram-news] [![Telegram][telegram-group-badge]][telegram-group]
+Currently working on:
 
 [![Stats](./img/sophia-script.svg)](https://github.com/farag2/Sophia-Script-for-Windows)
 [![Stats](./img/sophiapp.svg)](https://github.com/Sophia-Community/SophiApp)
