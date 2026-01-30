@@ -1,4 +1,5 @@
-I'm Dmitry. Passionate about Microsoft services, Windows & PowerShell. Open-source enthusiast and maintainer. I do ❤️ automation.
+I'm Dmitry. Passionate about Microsoft services, Windows & PowerShell. Open-source enthusiast and maintainer.
+I do ❤️ automation.
 
 <kbd>
 	<a href="https://t.me/sanctuary_d"><img src="https://img.shields.io/badge/PM-blue?labelColor=151B23&color=151B23&style=for-the-badge&logo=Telegram"></a>
