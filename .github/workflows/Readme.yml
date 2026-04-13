@@ -18,23 +18,23 @@ jobs:
         uses: actions/checkout@main
 
       - name: My statistics
-        uses: readme-tools/github-readme-stats-action@main
+        uses: readme-tools/github-readme-stats-action@v1.1.0
         with:
           card: stats
           options: 'username=${{ github.repository_owner }}&show_owner=true&count_private=false&show_icons=true&bg_color=22272E&text_color=9F9F9F'
           path: img/farag2.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: https://github.com/farag2/Sophia-Script-for-Windows statistics
-        uses: readme-tools/github-readme-stats-action@main
+      - name: Sophia Script for Windows statistics
+        uses: readme-tools/github-readme-stats-action@v1.1.0
         with:
           card: pin
           options: 'username=farag2&repo=Sophia-Script-for-Windows&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F'
           path: img/sophia-script.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: https://github.com/Sophia-Community/SophiApp statistics
-        uses: readme-tools/github-readme-stats-action@main
+      - name: SophiApp statistics
+        uses: readme-tools/github-readme-stats-action@v1.1.0
         with:
           card: pin
           options: 'username=Sophia-Community&repo=SophiApp&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F'
