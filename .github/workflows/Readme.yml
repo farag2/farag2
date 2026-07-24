@@ -18,7 +18,7 @@ jobs:
         uses: actions/checkout@main
 
       - name: My statistics
-        uses: stats-organization/github-readme-stats-action@v2.1.4
+        uses: stats-organization/github-readme-stats-action@main
         with:
           card: stats
           options: 'username=${{ github.repository_owner }}&show_owner=true&count_private=false&show_icons=true&bg_color=22272E&text_color=9F9F9F'
@@ -26,7 +26,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Sophia Script for Windows statistics
-        uses: stats-organization/github-readme-stats-action@v2.1.4
+        uses: stats-organization/github-readme-stats-action@main
         with:
           card: pin
           options: 'username=farag2&repo=Sophia-Script-for-Windows&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F'
@@ -34,7 +34,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: SophiApp statistics
-        uses: stats-organization/github-readme-stats-action@v2.1.4
+        uses: stats-organization/github-readme-stats-action@main
         with:
           card: pin
           options: 'username=Sophia-Community&repo=SophiApp&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F'
