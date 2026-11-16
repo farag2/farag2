@@ -21,7 +21,8 @@ jobs:
         uses: stats-organization/github-readme-stats-action@main
         with:
           card: stats
-          options: 'username=${{ github.repository_owner }}&show_owner=true&count_private=false&show_icons=true&bg_color=22272E&text_color=9F9F9F'
+          # Count the organizations' repositories too
+          options: 'username=${{ github.repository_owner }}&role=OWNER,ORGANIZATION_MEMBER&show_owner=true&count_private=false&show_icons=true&bg_color=22272E&text_color=9F9F9F'
           path: img/farag2.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
