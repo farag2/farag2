@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Dmitry Nefedov&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 17487, Total Commits  (last year) : 1173, Total PRs: 82, Total Issues: 36, Contributed to (last year): 8</desc>
+        <desc id="descId">Total Stars Earned: 17491, Total Commits  (last year) : 1176, Total PRs: 82, Total Issues: 36, Contributed to (last year): 8</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 40.47539601564194;
+        stroke-dashoffset: 40.46191829888076;
       }
     }
   
